@@ -1,0 +1,100 @@
+{
+    "ONGs" : [
+	{
+        "Nombre":"Viviendo a la vida",
+        "Etiqueta" : "Vv",
+        "x":650 ,
+        "y": 280 ,
+        "prioridad1" : 1 ,
+        "prioridad2" : 2 ,
+        "prioridad3" : 3
+    }, {
+        "Nombre":"Casa Hogar Kamami",
+        "Etiqueta" : "CK",
+        "x": 590 ,
+        "y": 310 ,
+        "prioridad1" : 4 ,
+        "prioridad2" : 4 ,
+        "prioridad3" : 6
+    }, {
+        "Nombre":"El puente de los ninos",
+        "Etiqueta" : "PN",
+        "x": 595 ,
+        "y": 320 ,
+        "prioridad1" : 7 ,
+        "prioridad2" : 8 ,
+        "prioridad3" : 9
+    }, {
+        "Nombre":"E-motiva",
+        "Etiqueta" : "EM",
+        "x": 455 ,
+        "y": 370 ,
+        "prioridad1" : 10 ,
+        "prioridad2" :  2,
+        "prioridad3" : 4
+    }, {
+        "Nombre":"Dignidad y justicia en el camino",
+        "Etiqueta" : "DJ",
+        "x": 465 ,
+        "y": 355 ,
+        "prioridad1" : 6 ,
+        "prioridad2" : 8 ,
+        "prioridad3" : 10
+    }, {
+        "Nombre":"Cien mujer por la mujer",
+        "Etiqueta" : "1M",
+        "x": 525 ,
+        "y": 339 ,
+        "prioridad1" : 10 ,
+        "prioridad2" : 7 ,
+        "prioridad3" : 3
+    }, {
+        "Nombre":"Asilo de ancianos desamparados",
+        "Etiqueta" : "AD",
+        "x": 535 ,
+        "y": 369 ,
+        "prioridad1" : 2 ,
+        "prioridad2" : 5 ,
+        "prioridad3" : 8		
+   }, {
+        "Nombre":"Centro Adiestramiento Laboral para Jovenes con capacidades especiales",
+        "Etiqueta" : "CA",
+        "x": 435 ,
+        "y": 310 ,
+        "prioridad1" : 3 ,
+        "prioridad2" : 6 ,
+        "prioridad3" : 9				
+   }, {
+        "Nombre":"Asociacion Mexicana Pro Educacion y Beneficencia",
+        "Etiqueta" : "MX",
+        "x": 535 ,
+        "y": 349 ,
+        "prioridad1" : 1 ,
+        "prioridad2" : 4 ,
+        "prioridad3" : 7				
+   }, {
+        "Nombre":"Posada Santa Cecilia",
+        "Etiqueta" : "PC",
+        "x": 850 ,
+        "y": 180 ,
+        "prioridad1" : 2 ,
+        "prioridad2" : 5 ,
+        "prioridad3" : 8				
+   }, {
+        "Nombre":"Casa Hogar de Guadalajara",
+        "Etiqueta" : "CH",
+        "x": 740 ,
+        "y": 490 ,
+        "prioridad1" : 9 ,
+        "prioridad2" : 8 ,
+        "prioridad3" : 7				
+    }, {
+        "Nombre":"Pro-bienestar Social",
+        "Etiqueta" : "PS",
+        "x": 400 ,
+        "y": 450 ,
+        "prioridad1" : 6 ,
+        "prioridad2" : 4 ,
+        "prioridad3" : 2
+    }]
+}
